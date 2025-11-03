@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2025-11-03T03:36:11.967Z",
+    "version": "1.1.0",
+    "generatedAt": "2025-11-03T03:38:11.257Z",
     "templateType": "full_banner_image_simple",
     "propertyId": "bf26fe95-cbb8-45ec-a147-9d7d3f34455a",
     "homepageId": "5be0fbc1-e5d8-4607-a73a-7e3520aeb404"
@@ -108,9 +108,7 @@
       "description": "",
       "keywords": ""
     },
-    "socialLinks": {
-      "facebook": "https://facebook.com/test"
-    },
+    "socialLinks": {},
     "customFields": {
       "pages": {
         "index": {
@@ -190,7 +188,6 @@
           ]
         }
       }
-    },
-    "id": "5be0fbc1-e5d8-4607-a73a-7e3520aeb404"
+    }
   }
 }
