@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2025-11-03T03:36:11.967Z",
+    "templateType": "full_banner_image_simple",
+    "propertyId": "bf26fe95-cbb8-45ec-a147-9d7d3f34455a",
+    "homepageId": "5be0fbc1-e5d8-4607-a73a-7e3520aeb404"
+  },
+  "property": {
+    "id": "bf26fe95-cbb8-45ec-a147-9d7d3f34455a",
+    "name": "위도경도 테스트 숙소",
+    "description": "",
+    "subtitle": "",
+    "address": "서울특별시 금천구 가산디지털2로 144",
+    "latitude": 37.4810281626186,
+    "longitude": 126.879311225819,
+    "contactPhone": "",
+    "contactEmail": "",
+    "checkin": "15:00:00",
+    "checkout": "11:00:00",
+    "checkInOutInfo": "",
+    "usageGuide": "",
+    "reservationGuide": "",
+    "province": "서울특별시",
+    "city": "금천구",
+    "amenities": [],
+    "nearbyAttractions": [],
+    "services": [],
+    "propertyThemes": [],
+    "propertyTypes": [],
+    "businessInfo": {
+      "businessName": "맥스",
+      "businessNumber": "123-323-3232",
+      "representativeName": "맥스",
+      "businessAddress": "강원도 고성",
+      "businessPhone": "",
+      "businessEmail": "사업장 이메일",
+      "businessType": "individual",
+      "businessCategory": null,
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": false,
+      "immediateRefundTimeLimit": "60"
+    },
+    "images": [
+      {
+        "thumbnail": [],
+        "exterior": [],
+        "surrounding": [],
+        "commonArea": []
+      }
+    ],
+    "nameEn": "LA",
+    "domain": "te22.com",
+    "gpensionId": ""
+  },
+  "rooms": [],
+  "homepage": {
+    "domain": "te22.com",
+    "templateType": "full_banner_image_simple",
+    "images": [
+      {
+        "logo": []
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": ""
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/test"
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [
+                  {
+                    "id": "442ed0ec-90d9-4e77-a896-e40a9c7f31aa",
+                    "url": "https://nbuihqqrvgfuwjxgbdym.supabase.co/storage/v1/object/public/app-images/homepage/5be0fbc1-e5d8-4607-a73a-7e3520aeb404/index_hero/1762140953869-uo4lp2brc4.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
+              },
+              "closing": {
+                "title": "",
+                "images": []
+              },
+              "essence": {
+                "title": "",
+                "images": []
+              },
+              "gallery": {
+                "title": "",
+                "images": []
+              },
+              "signature": {
+                "title": "",
+                "images": []
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "about": []
+            }
+          ]
+        },
+        "room": [],
+        "facility": [],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": []
+              },
+              "about": {
+                "title": "",
+                "images": [],
+                "description": ""
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "5be0fbc1-e5d8-4607-a73a-7e3520aeb404"
+  }
+}
